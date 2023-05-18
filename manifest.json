@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "grammer checker",
+    "version" : "1.0.0",
+    "description" : "Correct the grammer",
+
+    "icons":{
+        "16": "proofreading.png",
+        "48": "proofreading.png",
+        "128": "proofreading.png"
+    }
+
+}
